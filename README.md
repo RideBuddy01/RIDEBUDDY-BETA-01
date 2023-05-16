@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# ridebudysv0
-
-A new Flutter project.
-
 # RIDEBUDDY-BETA-01
 **RIDEBUDY** is a Flutter mobile application that combines the features of a **social media platform and a ride-pooling service**. The app aims to provide users with a convenient and efficient way to connect with others for ridesharing purposes while also offering social networking functionalities.
 ## Development Status and Version
