@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720829351624",
+    "project_id": "ride-budys",
+    "storage_bucket": "ride-budys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720829351624:android:85f29b9d377e6c196d87fd",
+        "android_client_info": {
+          "package_name": "com.example.ridebudysv0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720829351624-6b4q664h62aor99s4sc0qoih23hl6msl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TDrLsZCov5n-tBwedRQ3YmKrsSU45ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720829351624-6b4q664h62aor99s4sc0qoih23hl6msl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
