@@ -3,19 +3,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # RIDEBUDDY-BETA-01
 **RIDEBUDY** is a Flutter mobile application that combines the features of a **social media platform and a ride-pooling service**. The app aims to provide users with a convenient and efficient way to connect with others for ridesharing purposes while also offering social networking functionalities.
 ## Development Status and Version
@@ -69,4 +56,3 @@ RideBudys has the potential for further improvements and enhancements. Some poss
   - **User Feedback and Reporting:** Incorporate a feature that allows users to provide feedback, report issues, or suggest improvements within the app, facilitating continuous enhancements based on user input.
 
   - **Expanded Platform Support:** Extend the app's compatibility to other platforms such as web and desktop, enabling users to access RideBudys from a variety of devices.
->>>>>>> origin/main
